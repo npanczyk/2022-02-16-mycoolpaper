@@ -8,4 +8,6 @@ If you decide to reuse my paper, please follow attribution guidelines from my LI
 Here is a new line in the README.md.
 I also have a citation.md file.
 
-This is a dog fact. I like dogs. 
+This is a dog opinion: I like dogs.
+
+My dog is a Pomeranian.
